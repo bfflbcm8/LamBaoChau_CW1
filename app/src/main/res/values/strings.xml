@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LamBaoChauCW1</string>
+    <string-array name="HomeSpinnerLevel">
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+    </string-array>
+</resources>
